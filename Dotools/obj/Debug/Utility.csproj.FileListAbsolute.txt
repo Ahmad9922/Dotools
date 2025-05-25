@@ -1,0 +1,6 @@
+C:\Users\أحمد\source\repos\Utility\obj\Debug\Utility.csproj.AssemblyReference.cache
+C:\Users\أحمد\source\repos\Utility\obj\Debug\Utility.csproj.CoreCompileInputs.cache
+C:\Users\أحمد\source\repos\Utility\bin\Debug\Utility.dll
+C:\Users\أحمد\source\repos\Utility\bin\Debug\Utility.pdb
+C:\Users\أحمد\source\repos\Utility\obj\Debug\Utility.dll
+C:\Users\أحمد\source\repos\Utility\obj\Debug\Utility.pdb
