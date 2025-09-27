@@ -1,0 +1,6 @@
+C:\Users\أحمد\source\repos\Dotools\Dotools\bin\Release\Utility.dll
+C:\Users\أحمد\source\repos\Dotools\Dotools\bin\Release\Utility.pdb
+C:\Users\أحمد\source\repos\Dotools\Dotools\obj\Release\Dotools.csproj.AssemblyReference.cache
+C:\Users\أحمد\source\repos\Dotools\Dotools\obj\Release\Dotools.csproj.CoreCompileInputs.cache
+C:\Users\أحمد\source\repos\Dotools\Dotools\obj\Release\Utility.dll
+C:\Users\أحمد\source\repos\Dotools\Dotools\obj\Release\Utility.pdb

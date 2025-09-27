@@ -4,3 +4,16 @@ C:\Users\أحمد\source\repos\Utility\obj\Debug\Dotools.csproj.AssemblyReferenc
 C:\Users\أحمد\source\repos\Utility\obj\Debug\Dotools.csproj.CoreCompileInputs.cache
 C:\Users\أحمد\source\repos\Utility\obj\Debug\Utility.dll
 C:\Users\أحمد\source\repos\Utility\obj\Debug\Utility.pdb
+C:\Users\أحمد\source\repos\Dotools\Dotools\obj\Debug\Dotools.csproj.AssemblyReference.cache
+C:\Users\أحمد\source\repos\Dotools\Dotools\obj\Debug\Dotools.csproj.CoreCompileInputs.cache
+C:\Users\أحمد\source\repos\Dotools\Dotools\bin\Debug\Dotools.dll
+C:\Users\أحمد\source\repos\Dotools\Dotools\bin\Debug\Dotools.pdb
+C:\Users\أحمد\source\repos\Dotools\Dotools\obj\Debug\Dotools.dll
+C:\Users\أحمد\source\repos\Dotools\Dotools\obj\Debug\Dotools.pdb
+C:\Users\أحمد\source\repos\Dotools\Dotools\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\أحمد\source\repos\Dotools\Dotools\bin\Debug\ExcelDataReader.dll
+C:\Users\أحمد\source\repos\Dotools\Dotools\bin\Debug\ExcelDataReader.pdb
+C:\Users\أحمد\source\repos\Dotools\Dotools\bin\Debug\ExcelDataReader.xml
+C:\Users\أحمد\source\repos\Dotools\Dotools\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\أحمد\source\repos\Dotools\Dotools\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\أحمد\source\repos\Dotools\Dotools\obj\Debug\Dotools.csproj.Up2Date
